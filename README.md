@@ -5,6 +5,8 @@ Thanks for your Interest in attending the event. Here are pre-requiste you must 
 1. Clone this github. You can do so by running `git clone https://github.com/kevtae/mlhEvent`
 2. install NPM by running `npm install`
 3. install Truffle by running `npm install truffle -g`
+4. Install ganache https://truffleframework.com/ganache
+5. Install metamask chrome extension https://metamask.io/
 
 Please email ccnycrypto@gmail.com if you have any question.
 
